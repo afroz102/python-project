@@ -71,22 +71,27 @@ pip install afroz-bitcoin-price
 Following query on terminal will provide you with all the help options 
 
 ### INPUT
+```
 afroz-bitcoin-price -h
-
+```
 ### OUTPUT 
+```
 usage: afroz-bitcoin-price [-h] [--d decision] [--i interval]
                                [--u upper threshold]
+```
 
 Bitcoin Notification Alert
-
+```
 optional arguments:
   -h, --help           show this help message and exit
   --d decision         Enter (Yes/No) - Yes will run the program
   --i interval         Enter time interval
   --u upper threshold  Set upper threshold limit in USD for notification
+```
 
-
+```
 afroz-bitcoin-price --d=Yes --i=0.1 --u=10000
+```
 
 This will provide 5 prices of Bitcoin, at the specified time interval according to the code.
 
@@ -96,7 +101,9 @@ This will provide 5 prices of Bitcoin, at the specified time interval according 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 YOU ARE MOST WELCOME! SEE YOU THERE!
+```
 https://t.me/joinchat/L5pJsBmFWhCQwtKVye4oDw
+```
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
