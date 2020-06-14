@@ -55,13 +55,13 @@ https://pip.pypa.io/en/stable/installing/
 The only dependency is on the requests library. 
 
 ```
-pip install requests==2.18.4
+pip3 install requests
 ```
 
 4. Install bitcoin-notifier package/module from PIP (on terminal)
 
 ```
-pip install afroz-bitcoin-price
+pip3 install afroz-bitcoin-price
 ```
 
 
@@ -90,7 +90,7 @@ optional arguments:
 ```
 
 ```
-afroz-bitcoin-price --d=Yes --i=0.1 --u=10000
+afroz-bitcoin-price --d=Y --i=0.1 --u=10000
 ```
 
 This will provide 5 prices of Bitcoin, at the specified time interval according to the code.
@@ -101,18 +101,17 @@ This will provide 5 prices of Bitcoin, at the specified time interval according 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 YOU ARE MOST WELCOME! SEE YOU THERE!
-```
+
 https://t.me/joinchat/L5pJsBmFWhCQwtKVye4oDw
-```
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
-## FOLLOW THIS LINK FOR UPDATE ON TWITTER - 
+## FOLLOW THIS ACCOUNT FOR UPDATE ON TWITTER - 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-```
 https://twitter.com/sahil44375804
-```
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
 ## CONTRIBUTIONS
 -----------------------------------------------------------------------------------------------------------------------------------------------

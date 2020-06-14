@@ -54,7 +54,7 @@ def main(interval, BITCOIN_PRICE_THRESHOLD):
         if price < BITCOIN_PRICE_THRESHOLD:
             post_ifttt_webhook('bitcoin_price_emergency', price)
 
-        if len(bitcoin_history) == 5:
+        if len(bitcoin_history) == 2:
 
             # Send a Slack notification
 
