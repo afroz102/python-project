@@ -89,9 +89,12 @@ optional arguments:
 ```
 
 **Default value**:
- Command ``` afroz-bitcoin-price ``` will take parameters --d as Y, --i as 1 and --u as 10000 in USD.
+ Command ``` afroz-bitcoin-price ``` will take default parameters --d as Y, --i as 1 and --u as 10000 in USD.
+ 
  Or you can change 
-``` afroz-bitcoin-price --d=Y --i=1 --u=10000 ```
+``` 
+afroz-bitcoin-price --d=Y --i=1 --u=10000 
+```
 
 This will provide 5 prices of Bitcoin, at the specified time interval according to the code.
 
@@ -100,17 +103,12 @@ This will provide 5 prices of Bitcoin, at the specified time interval according 
 ## TELEGRAM GROUP INVITE LINK - 
 ----------------------------------------------------------------------------------------------------------------------------
 
-Go to this link
-
-https://t.me/joinchat/L5pJsBmFWhCQwtKVye4oDw
+**Join telegram group for update**: [click here](https://t.me/joinchat/L5pJsBmFWhCQwtKVye4oDw "https://t.me/joinchat/L5pJsBmFWhCQwtKVye4oDw")
 
 
+**FOLLOW THIS ACCOUNT FOR UPDATE ON TWITTER**: [click here](https://twitter.com/sahil44375804 "https://twitter.com/sahil44375804")
 
-----------------------------------------------------------------------------------------------------------------------------
-## FOLLOW THIS ACCOUNT FOR UPDATE ON TWITTER - 
----
-
-https://twitter.com/sahil44375804
+---------------------------------------------------------------------------------------------------------------------------- 
 
 ----------------------------------------------------------------------------------------------------------------------------## CONTRIBUTIONS
 
