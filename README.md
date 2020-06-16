@@ -52,16 +52,16 @@ https://pip.pypa.io/en/stable/installing/
 
 **Note:** Make sure you have pip3 installed. to check, run ``` pip3 --version``` on your terminal.
 
-3. Dependencies
+3. **Dependencies**
 
 The only dependency is the requests library.
 
 
 Install requests using ``` pip3 install requests ```
 
-4. Install bitcoin-notifier package/module.
+4. **Install bitcoin-notifier package/module**.
 
-Simply run ```pip3 install afroz-bitcoin-price``` on your terminal.
+ Just run ```pip3 install afroz-bitcoin-price``` on your terminal.
 
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -88,9 +88,10 @@ optional arguments:
   --u upper threshold  Set upper threshold limit in USD for notification
 ```
 
-```
-afroz-bitcoin-price --d=Y --i=0.1 --u=10000
-```
+**Default value**:
+ Command ``` afroz-bitcoin-price ``` will take parameters --d as Y, --i as 1 and --u as 10000 in USD.
+ Or you can change 
+``` afroz-bitcoin-price --d=Y --i=1 --u=10000 ```
 
 This will provide 5 prices of Bitcoin, at the specified time interval according to the code.
 
